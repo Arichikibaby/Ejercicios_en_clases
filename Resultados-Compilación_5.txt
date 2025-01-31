@@ -1,0 +1,6 @@
+﻿Compilación iniciada a las 18:36...
+1>------ Operación Compilar iniciada: Proyecto: Ejercicios_en_clase_5, configuración: Debug Any CPU ------
+1>Omitiendo analizadores para acelerar la compilación. Puede ejecutar los comandos "Build" o "Rebuild" para ejecutar los analizadores.
+1>Ejercicios_en_clase_5 -> C:\Users\Windows\source\repos\Ejercicios_en_clase_5\bin\Debug\net8.0\Ejercicios_en_clase_5.dll
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 18:36 y tardó 00,517 segundos ==========
