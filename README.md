@@ -1,119 +1,52 @@
- 📝 Ejercicios en Clase de Programación  
+📝 Ejercicios en Clase de 
 
-Este repositorio contiene ocho ejercicios prácticos desarrollados en clase, diseñados para comprender conceptos clave de la programación en **C#** utilizando **Visual Studio**.  
+Este repositorio contiene ejercicios prácticos desarrollados en clase, diseñados para comprender conceptos clave de la programación en **C#** utilizando **Visual Studio**. Los proyectos están organizados dentro de una solución de Visual Studio.
 
----
+## 🚀 **Contenido de la Solución**
 
- 🚀 Contenido  
+La solución `Ejercicios_en_clases.sln` contiene los siguientes proyectos:
 
-### Ejercicio 1: **Cálculo de Área** (`Ejercicio_en_clases_1.sln`)  
+### 1. **Ejercicio_en_clases_1**
+   - **Proyecto de Visual Studio**: `Ejercicio_en_clases_1.csproj`
+   - **Descripción**: Este proyecto resuelve un problema simple relacionado con el cálculo de áreas. Permite ingresar el radio de un círculo y calcula su área.
 
-**Descripción:**  
-Este ejercicio solicita al usuario el radio de un círculo para calcular su área.  
+### 2. **Ejercicio_en_clase_2**
+   - **Proyecto de Visual Studio**: `Ejercicio_en_clase_2.csproj`
+   - **Descripción**: Este ejercicio solicita al usuario un número y clasifica dicho número como positivo, negativo o cero.
 
-**Pasos:**  
-1. Ejecutar el proyecto en Visual Studio.  
-2. Ingresar el valor del radio cuando se solicite.  
-3. Visualizar el resultado del área en pantalla.  
+### 3. **Ejercicio_en_clases**
+   - **Proyecto de Visual Studio**: `Ejercicio_en_clases.csproj`
+   - **Descripción**: Proyecto que incluye un ejercicio para calcular el área de un triángulo y mostrar el resultado en la consola.
 
----
+### 4. **Ejercicio_en_clase_4**
+   - **Proyecto de Visual Studio**: `Ejercicio_en_clase_4.csproj`
+   - **Descripción**: Ejercicio que recibe una cadena de texto y determina si es un palíndromo (palabra que se lee igual de izquierda a derecha y de derecha a izquierda).
 
-### Ejercicio 2: **Ingreso de Número y Clasificación** (`Ejercicio_en_clase_2.sln`)  
+### 5. **Ejercicios_en_clase_5**
+   - **Proyecto de Visual Studio**: `Ejercicios_en_clase_5.csproj`
+   - **Descripción**: Este ejercicio consiste en la validación de contraseñas, asegurando que cumpla con requisitos de seguridad (por ejemplo, longitud mínima, caracteres especiales).
 
-**Descripción:**  
-El programa pide al usuario un número y determina si es positivo, negativo o cero.  
+### 6. **Ejercicios_en_clase_6**
+   - **Proyecto de Visual Studio**: `Ejercicios_en_clase_6.csproj`
+   - **Descripción**: Programa que permite sumar dos números introducidos por el usuario y muestra el resultado.
 
-**Pasos:**  
-1. Ejecutar el proyecto.  
-2. Ingresar un número entero cuando se solicite.  
-3. Observar la clasificación del número.  
+### 7. **Ejercicio_en_clase_7**
+   - **Proyecto de Visual Studio**: `Ejercicio_en_clase_7.csproj`
+   - **Descripción**: Este proyecto resuelve el problema de encontrar los números primos dentro de un rango proporcionado por el usuario.
 
----
-
-### Ejercicio 3: **Contador de Números del 1 al N** (`ejercicio_en_clase_3.sln`)  
-
-**Descripción:**  
-Este ejercicio imprime los números del 1 hasta un número `N` ingresado por el usuario.  
-
-**Pasos:**  
-1. Ejecutar el proyecto.  
-2. Ingresar un número `N`.  
-3. El programa mostrará la secuencia del 1 al número ingresado.  
+### 8. **Ejercicio_en_clase_8**
+   - **Proyecto de Visual Studio**: `Ejercicio_en_clase_8.csproj`
+   - **Descripción**: Este ejercicio consiste en convertir una cadena de texto en mayúsculas o minúsculas, según la elección del usuario.
 
 ---
 
-### Ejercicio 4: **Piedra, Papel o Tijera** (`Ejercicio_en_clase_4.sln`)  
+## 💻 **Instrucciones para Ejecutar la Solución**
 
-**Descripción:**  
-Juego clásico de "Piedra, Papel o Tijera" contra la computadora.  
-
-**Pasos:**  
-1. Ejecutar el proyecto.  
-2. Seleccionar una opción (`Piedra`, `Papel`, `Tijera`).  
-3. El programa mostrará el resultado (Ganaste, Perdiste o Empate).  
-
----
-
-### Ejercicio 5: **Ingreso de Datos del Jugador** (`Ejercicios_en_clase_5.sln`)  
-
-**Descripción:**  
-Se solicita al usuario el nombre y la puntuación de un jugador y los muestra en pantalla.  
-
-**Pasos:**  
-1. Ejecutar el proyecto.  
-2. Ingresar el nombre del jugador.  
-3. Ingresar la puntuación obtenida.  
-4. Observar el mensaje con los datos ingresados.  
-
----
-
-### Ejercicio 6: **Cálculo Promedio con Arreglos** (`Ejercicios_en_clase_6.sln`)  
-
-**Descripción:**  
-Este ejercicio permite al usuario ingresar una lista de calificaciones y calcula el promedio.  
-
-**Pasos:**  
-1. Ejecutar el proyecto.  
-2. Ingresar el número de calificaciones.  
-3. Introducir cada calificación.  
-4. Visualizar el promedio en pantalla.  
-
----
-
-### Ejercicio 7: **Listas y Búsqueda de Elementos** (`Ejercicio_en_clase_7.sln`)  
-
-**Descripción:**  
-El usuario ingresa una lista de nombres. Posteriormente, puede buscar si un nombre específico existe en la lista.  
-
-**Pasos:**  
-1. Ejecutar el proyecto.  
-2. Ingresar los nombres deseados.  
-3. Introducir el nombre a buscar.  
-4. Observar si el nombre está presente o no.  
-
----
-
-### Ejercicio 8: **Proyecto Integrador con Estructuras de Datos** (`Ejercicio_en_clase_8.sln`)  
-
-**Descripción:**  
-Programa que combina listas, funciones y estructuras de control para registrar y procesar información.  
-
-**Pasos:**  
-1. Ejecutar el proyecto.  
-2. Ingresar la cantidad de datos solicitados.  
-3. Procesar los datos conforme a las instrucciones del programa.  
-
----
-
-## 💻 Instrucciones de Uso  
-
-1. Clona el repositorio:  
+### 1. Clona el repositorio:
    ```bash
    git clone <URL_DEL_REPOSITORIO>
-2. Abre el archivo .sln del ejercicio deseado en Visual Studio.
-3. Selecciona la configuración (Debug o Release).
-4. Ejecuta el programa (Ctrl + F5).
-   
-🛠️ Requisitos
-Visual Studio 2022 o superior.
-.NET Framework compatible.
+2. Abre la solución en Visual Studio:
+Abre el archivo Ejercicios_en_clases.sln en Visual Studio para cargar todos los proyectos de la solución.
+Ejercicios_en_clases.sln
+3. Selecciona el proyecto que deseas ejecutar:
+Dentro de Visual Studio, selecciona el proyecto correspondiente (por ejemplo, Ejercicio_en_clases_1) y ejecútalo.
