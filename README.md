@@ -1,4 +1,4 @@
-📝 Ejercicios en Clase de 
+📝 Ejercicios en Clase 
 
 Este repositorio contiene ejercicios prácticos desarrollados en clase, diseñados para comprender conceptos clave de la programación en **C#** utilizando **Visual Studio**. Los proyectos están organizados dentro de una solución de Visual Studio.
 
